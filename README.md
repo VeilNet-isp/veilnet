@@ -1,4 +1,4 @@
-How to implement this
+How We implement this
 1.  We Encrypt traffic between the customer and your PoP.
 
 WireGuard help us provides an encrypted tunnel. Starlink and other upstreaming service transports the encrypted packets rather than receiving ordinary unencrypted customer DNS and application traffic.
